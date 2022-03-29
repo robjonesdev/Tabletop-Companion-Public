@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34977637574",
+    "project_id": "tabletopcompanion",
+    "storage_bucket": "tabletopcompanion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34977637574:android:b804d97fc9106aad6f23c7",
+        "android_client_info": {
+          "package_name": "com.jonesdev.pathfindercompanion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34977637574-qli3b4ffo9j8nj54sqqliuurqhvdnnau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhVOg2SXcleYRuOIoOIJdQ9YTjObosuaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34977637574-qli3b4ffo9j8nj54sqqliuurqhvdnnau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

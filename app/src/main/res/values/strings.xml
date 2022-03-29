@@ -1,0 +1,60 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Pathfinder Companion</string>
+    <string name="title_activity_character_pane">Pathfinder Companion</string>
+
+    <!-- UTIL Strings -->
+    <string name="SLASH">/</string>
+    <string name="COLON">:</string>
+    <string name="SPACE"> </string>
+    <string name="PLUS">+</string>
+
+    <!-- Activity Extra String -->
+    <string name="character_data">characterData</string>
+    <string name="character_pane_data">characterPaneData</string>
+
+    <!-- Strings for image descriptions -->
+    <string name="grunyar_description">Grunyar, the dwarven smith on a quest to discover the mysteries of flashfire powder.</string>
+    <string name="luna_description">Luna Blackwood, a half-elf fortune-teller whose destiny has bound itself to strange travelers.</string>
+    <string name="dropdown_arrow_description">An image of a chevron pointing downward</string>
+    <string name="dropup_arrow_description">An image of a chevron pointing upward</string>
+
+    <!-- Strings for Character Panel Activity-->
+    <string name="character_name_temporary_string">NAME</string>
+    <string name="grunyar_character_name">Grunyar</string>
+    <string name="luna_character_name">Luna</string>
+    <string name="character_portrait_description">The Portrait of a Hero</string>
+    <string name="title_activity_character_inspection_compose">CharacterInspectionComposeActivity</string>
+
+    <!-- Character Inspection String -->
+    <string name="biography_header_string">Biography</string>
+    <string name="defensive_statistics_header_string">Defensive Statistics</string>
+    <string name="stat_modifiers_header_string">Stat Modifiers</string>
+    <string name="skills_and_perception_header_string">Skills and Perception</string>
+    <string name="health_header_string">Health</string>
+    <string name="armor_class_header_string">AC</string>
+    <string name="character_speed_header_string">Speed</string>
+    <string name="feet_abbreviation">ft</string>
+    <string name="fortitude_saves">Fort</string>
+    <string name="reflex_saves">Reflex</string>
+    <string name="will_saves">Will</string>
+    <string name="strength_header_string">STR</string>
+    <string name="dexterity_header_string">DEX</string>
+    <string name="constitution_header_string">CON</string>
+    <string name="int_modifier_header_string">INT</string>
+    <string name="wisdom_modifier_header_string">WIS</string>
+    <string name="charisma_modifier_header_string">CHA</string>
+    <string name="item_name_header">Name</string>
+    <string name="item_count_header">Count</string>
+    <string name="item_bulk_header">Bulk</string>
+    <string name="item_price_header">Price</string>
+    <string name="spell_or_ability_action_cost_header">Action Cost</string>
+    <string name="spell_or_ability_duration_header">Duration</string>
+    <string name="spell_or_ability_range_header">Range</string>
+    <string name="spell_or_ability_level_header">Level</string>
+    <string name="character_race_header">Race</string>
+    <string name="character_class_header">Class</string>
+    <string name="character_alignment_header">Alignment</string>
+    <string name="character_deity_header">Deity</string>
+    <string name="character_age_header">Age</string>
+
+</resources>
